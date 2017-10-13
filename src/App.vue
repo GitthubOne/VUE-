@@ -15,7 +15,7 @@
 			</router-link>
 			<router-link class="mui-tab-item" to="/tabbar-with-chat">
 				<span class="mui-icon mui-icon-email">
-				
+
 				</span>
 				<span class="mui-tab-label">会员</span>
 			</router-link>
@@ -38,11 +38,11 @@
 	export default{  // es6的导出对象的写法
 		data(){  //等价于 es5的 data:function(){
 			return {
-				
+
 			}
 		},
 		methods:{
-			
+
 		},
 		created(){
 
